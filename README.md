@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Federico 👋
 
-<!--
-**fexdelu/fexdelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Python | LLMs | Manufacturing → AI
 
-Here are some ideas to get you started:
+Construyendo sistemas AI prácticos. Passionate about RAG, LLM deployment, 
+y hacer que la IA funcione en productos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Building
+- **technical-doc-rag** - RAG system para docs técnicas
+- Advanced LLM techniques
+- Production AI architectures
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL, C/C#
+**AI/ML:** LangChain, Pinecone, OpenAI, PyTorch
+**Web:** FastAPI, Streamlit
+**Infra:** Docker, GitHub Actions
+
+### 📈 GitHub Stats
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fexdelu&show_icons=true&theme=radical)
+
+### 🌍 Location
+Buenos Aires, Argentina 🇦🇷
+
+### 📧 Contact
+- Email: federico.lumma@gmail.com
+- LinkedIn: [profile]
+- Twitter/X: [@fexdelu]
+
+---
+*Building in public. Feedback welcome.* 💪
