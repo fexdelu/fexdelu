@@ -27,5 +27,10 @@ Buenos Aires, Argentina 🇦🇷
 - LinkedIn: [profile]
 - Twitter/X: [@fexdelu]
 
+### 🔄 Learning Path
+- Production-grade RAG systems
+- LLM fine-tuning & LoRA
+- Model serving & optimization
+
 ---
-*Building in public. Feedback welcome.* 💪
+*Building in public. Early stage — feedback welcome! 💪
